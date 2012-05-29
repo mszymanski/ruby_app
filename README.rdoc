@@ -1,1 +1,4 @@
-#empty
+#Aplikacja bazodanowo oparta o sqlite3 w Ruby on Rails 3.2.3
+
+#Aplikacja ta będzie posiadać baze danych użytkowników,możliwość rejestracji ,logowania a także umieszczania
+na własnym profilu postów,inni użytkownicy będą mogli śledzić innych użytkowników.
